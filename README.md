@@ -2,13 +2,19 @@
 
 Kelompok 7 :
 
-NIM       | Nama                      | Username GitHub
-535230012 | Bryan Fidello             | Redoxsus
-535230105 | Andreas Setiawan Harefa   | TheShadowMoon
-535230106 | Stiven                    | SystemFIND
-535230107 | James Nursalim            | Kyuri23
-535230143 | Malwinder Singh           | Malwinder2005
-535230167 | Muhammad Adrian Hafiz     | AdrianHafiz
+| NIM  		| Nama                      | Username GitHub   |
+
+| 535230012 | Bryan Fidello             | Redoxsus          |
+
+| 535230105 | Andreas Setiawan Harefa   | TheShadowMoon     |
+
+| 535230106 | Stiven                    | SystemFIND        |
+
+| 535230107 | James Nursalim            | Kyuri23           |
+
+| 535230143 | Malwinder Singh           | Malwinder2005     |
+
+| 535230167 | Muhammad Adrian Hafiz     | AdrianHafiz       |
 
 
 ## Getting Started
@@ -16,6 +22,7 @@ NIM       | Nama                      | Username GitHub
 Topik       : Entertainment
 
 Aplikasi    : Streaming Video 
+
 Deskripsi   : 
 
 Pada project ini, kami akan membuat aplikasi Streaming platform. Tujuan utama dari pembuatan aplikasi ini adalah untuk menyediakan berbagi film – film, series, dll. Aplikasi akan memungkinkan pengguna untuk dengan mudah melakukan pencarian dan memfilter berdasarkan genre, popularitas, atau rekomendasi.
