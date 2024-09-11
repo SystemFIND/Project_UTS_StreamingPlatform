@@ -1,6 +1,7 @@
 # streaming_video
 
 Kelompok 7 :
+
 NIM       | Nama                      | Username GitHub
 535230012 | Bryan Fidello             | Redoxsus
 535230105 | Andreas Setiawan Harefa   | TheShadowMoon
