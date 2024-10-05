@@ -1,5 +1,6 @@
-package com.example.streaming_platform
+package com.streaming_platform.app
 
 import io.flutter.embedding.android.FlutterActivity
 
-class MainActivity: FlutterActivity()
+class MainActivity: FlutterActivity(){
+}
