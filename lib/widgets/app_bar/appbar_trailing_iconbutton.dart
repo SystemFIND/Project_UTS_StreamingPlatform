@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/core/app_export.dart';
+import 'package:streaming_platform/core/app_export.dart';
 import '../custom_icon_button.dart';
 
 class AppbarTrailingIconbutton extends StatelessWidget {
