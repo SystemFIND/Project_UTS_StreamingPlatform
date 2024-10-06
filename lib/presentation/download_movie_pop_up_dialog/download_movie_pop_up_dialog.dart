@@ -68,7 +68,6 @@ class _DownloadMoviePopUpDialogState extends State<DownloadMoviePopUpDialog> {
     );
   }
 
-  /// Section Widget
   Widget _buildHeightPCheckbox(BuildContext context) {
     return CustomCheckboxButton(
       text: "Height (1080p)",
@@ -82,7 +81,6 @@ class _DownloadMoviePopUpDialogState extends State<DownloadMoviePopUpDialog> {
     );
   }
 
-  /// Section Widget
   Widget _buildMidPCheckbox(BuildContext context) {
     return CustomCheckboxButton(
       text: "Mid (720p)",
@@ -96,7 +94,6 @@ class _DownloadMoviePopUpDialogState extends State<DownloadMoviePopUpDialog> {
     );
   }
 
-  /// Section Widget
   Widget _buildLowPCheckbox(BuildContext context) {
     return CustomCheckboxButton(
       text: "Low (360p)",

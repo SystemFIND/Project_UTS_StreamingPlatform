@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../../core/app_export.dart';
-import 'widgets/about_item_widget.dart'; // ignore_for_file: must_be_immutable
+import 'widgets/about_item_widget.dart';
 
 class AboutPage extends StatefulWidget {
   const AboutPage({Key? key})

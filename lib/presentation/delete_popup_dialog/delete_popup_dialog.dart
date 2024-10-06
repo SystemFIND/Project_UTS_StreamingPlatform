@@ -1,7 +1,7 @@
 // lib/presentation/delete_popup_dialog.dart
 import 'package:flutter/material.dart';
 import '../../../core/app_export.dart';
-import '../../../widgets/custom_elevated_button.dart'; // ignore_for_file: must_be_immutable
+import '../../../widgets/custom_elevated_button.dart';
 
 class DeletePopupDialog extends StatelessWidget {
   const DeletePopupDialog({Key? key})

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/choose_plan_screen/choose_plan_screen.dart';
-import 'package:prototype/presentation/download_movie_pop_up_dialog/download_movie_pop_up_dialog.dart';
+import 'package:streaming_platform/presentation/choose_plan_screen/choose_plan_screen.dart';
+import 'package:streaming_platform/presentation/download_movie_pop_up_dialog/download_movie_pop_up_dialog.dart';
 import '../../../core/app_export.dart';
 import '../../../widgets/custom_elevated_button.dart';
 import '../../../theme/custom_button_style.dart';
