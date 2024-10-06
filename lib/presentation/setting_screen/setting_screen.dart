@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/language_screen/language_screen.dart';
+import 'package:streaming_platform/presentation/language_screen/language_screen.dart';
 import '../../core/app_export.dart';
 import '../../widgets/app_bar/appbar_leading_iconbutton.dart';
 import '../../widgets/app_bar/appbar_title.dart';

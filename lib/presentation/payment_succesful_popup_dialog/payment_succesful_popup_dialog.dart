@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/home_screen/home_screen.dart';
+import 'package:streaming_platform/presentation/home_screen/home_screen.dart';
 import '../../core/app_export.dart';
 import '../../widgets/custom_elevated_button.dart'; // ignore_for_file: must_be_immutable
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/login_screen/login_screen.dart';
+import 'package:streaming_platform/presentation/login_screen/login_screen.dart';
 import '../../core/app_export.dart';
 import '../../widgets/custom_elevated_button.dart';
 

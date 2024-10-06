@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/reset_password_success_screen/reset_password_success_screen.dart';
+import 'package:streaming_platform/presentation/reset_password_success_screen/reset_password_success_screen.dart';
 import '../../core/app_export.dart';
 import '../../widgets/custom_elevated_button.dart';
 import '../../widgets/custom_text_form_field.dart';

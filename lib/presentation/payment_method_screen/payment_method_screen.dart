@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:prototype/presentation/payment_succesful_popup_dialog/payment_succesful_popup_dialog.dart';
+import 'package:streaming_platform/presentation/payment_succesful_popup_dialog/payment_succesful_popup_dialog.dart';
 import '../../core/app_export.dart';
 import '../../theme/custom_button_style.dart';
 import '../../widgets/app_bar/appbar_leading_iconbutton.dart';
